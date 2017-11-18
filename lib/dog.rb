@@ -11,7 +11,7 @@ def breed=(dogs_breed) #setter method
   @breed = dogs_breed
 end
 
-def breed 
+def breed
   @breed
 end
 
